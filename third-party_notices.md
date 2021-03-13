@@ -1,4 +1,4 @@
-# Third Party Notices – Sanmill for Android
+# Third Party Notices – Sanmill
 
 Third-party notices are provided solely for your information and include the original copyright and license which Calcitem received with the third-party software. While Calcitem is not the original author of the third-party materials, Calcitem licenses these third-party materials to you under the terms set forth in the agreement governing the Calcitem Offering, except that components licensed under open source licenses requiring that such components remain under their original license, such as the GNU General Public License (GPL) or the GNU Lesser General Public License (LGPL), are being made available to you by Calcitem under their original licensing terms. Calcitem reserves all rights not expressly granted herein, whether by implication, estoppel or otherwise.
 
