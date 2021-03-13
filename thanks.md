@@ -1,6 +1,7 @@
 # Thanks 致谢
 
 Thanks to following programmers and teams:
+
 Sanmill 参考借鉴的主要开源库如下，感谢默默无闻为开源事业做出贡献的人们：
 
 [Stockfish - UCI 国际象棋引擎](https://github.com/official-stockfish/Stockfish)
