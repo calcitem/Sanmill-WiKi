@@ -198,7 +198,7 @@ The following are the examples of when third party terms and privacy policies ma
 
 We use Gitee to host open source software projects in the people's Republic of China. Gitee's Privacy Policy applies:  https://gitee.com/terms/privacy_terms.
 
-We use GitHub outside the People's Republic of China for open source software project hosting and problem feedback services. GitHub 's Privacy Policy applies: https://docs.github.com/cn/github/site-policy/github-privacy-statement.
+We use GitHub outside the People's Republic of China for open source software project hosting and problem feedback services. GitHub 's Privacy Policy applies: https://docs.github.com/en/github/site-policy/github-privacy-statement.
 
 ## How we update this Privacy Policy
 
