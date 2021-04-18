@@ -196,9 +196,9 @@
 
 以下提供了当您使用上述特定产品或服务时，所适用的第三方条款和隐私政策的示例：
 
-我们在中华人民共和国境内使用 Gitee 进行开源软件项目托管，相关隐私政策，详见 https://gitee.com/terms/privacy_terms。
+我们在中华人民共和国境内使用 Gitee 进行开源软件项目托管，相关隐私政策，详见 https://gitee.com/terms/privacy_terms
 
-我们在中华人民共和国境外使用 Github 进行开源软件项目托管以及提供问题反馈服务，相关隐私政策，详见 https://docs.github.com/cn/github/site-policy/github-privacy-statement。
+我们在中华人民共和国境外使用 Github 进行开源软件项目托管以及提供问题反馈服务，相关隐私政策，详见 https://docs.github.com/cn/github/site-policy/github-privacy-statement
 
 ## 本政策如何更新
 
