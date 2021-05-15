@@ -1,1 +1,0 @@
-https://dev.to/sanandmv7/how-to-publish-your-apps-on-f-droid-2epn
