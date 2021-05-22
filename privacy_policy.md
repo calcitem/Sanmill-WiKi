@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Our Privacy Policy was updated on April 19, 2021.
+Our Privacy Policy was updated on May 22, 2021.
 
 Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
@@ -196,7 +196,7 @@ Our Privacy Policy does not apply to products or services offered by a third par
 
 The following are the examples of when third party terms and privacy policies may apply when you use the specific products listed above:
 
-We use Gitee to host open source software projects in the people's Republic of China. Gitee's Privacy Policy applies:  https://gitee.com/terms/privacy_terms.
+We use Gitee to host open source software projects in the People's Republic of China. Gitee's Privacy Policy applies:  https://gitee.com/terms/privacy_terms.
 
 We use GitHub outside the People's Republic of China for open source software project hosting and problem feedback services. GitHub 's Privacy Policy applies: https://docs.github.com/en/github/site-policy/github-privacy-statement.
 
