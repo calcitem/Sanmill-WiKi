@@ -1,4 +1,4 @@
-## Android App
+## Flutter App for Android
 
 You can download the Android App from the links below:
 
