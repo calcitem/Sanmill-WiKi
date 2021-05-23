@@ -20,7 +20,7 @@ Title: German Translation
 
 Drag `intl_de.arb.txt` to the text field, and click `Start discussion`.
 
-We will try our best to put the new translation into the App and release it within two days. If you urgently need to update the App as soon as possible, you can download it at [Github Actions](https://github.com/calcitem/Sanmill/actions). Because the signing key is different from Google Play Store and F-Droid, you need to uninstall the original App and reinstall it. Thank you for your understanding!
+We will try our best to put the new translation into the App and release it within two days. If you urgently need to update the App as soon as possible, you can download it at [Github Actions](https://github.com/calcitem/Sanmill/actions/workflows/flutter.yml?query=is%3Asuccess+branch%3Amaster). Because the signing key is different from Google Play Store and F-Droid, you need to uninstall the original App and reinstall it. Thank you for your understanding!
 
 If we do not reply this discussion within three days, you can send us an email: calcitem@outlook.com to remind us.
 
