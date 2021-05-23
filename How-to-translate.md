@@ -12,13 +12,13 @@ File intl_en.arb describes the role of each text field and the content of the En
 
 Download sample: https://raw.githubusercontent.com/calcitem/Sanmill/master/src/ui/flutter_app/lib/l10n/intl_zh.arb as reference.
 
-Rename `intl_zh.arb` to `intl_de.arb.txt`, and then modify Chinese strings to German strings.
+Rename `intl_zh.arb` to `intl_de.arb.txt`, and then modify Chinese strings to German strings. If part of the text is not translated, it does not affect the use of the App, you can temporarily leave it untranslated and copy English string of `intl_en.arb` to replace there.
 
 Open https://github.com/calcitem/Sanmill/discussions/new
 
 `Select Category` -- select `Translation`.
 
-Title: German Translation
+Title: `German Translation`
 
 Drag `intl_de.arb.txt` to the text field, and click `Start discussion`.
 
