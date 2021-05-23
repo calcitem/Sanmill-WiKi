@@ -10,8 +10,11 @@ You can download the Android App from the links below:
 
 The signing keys of the above sources are different. If the apk you installed is from a different source, you need to uninstall the original App and reinstall it.
 
-## Qt Application for Windows
+## Flutter App for Windows
 
+You can use Visual Studio 2019 to build `src\ui\flutter_app\build\windows\Mill.sln` by yourself.
+
+## Qt Application for Windows
 
 > **Note**
 >
