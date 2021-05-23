@@ -2,7 +2,7 @@ The translation involves some professional terms related to the Mill Game, which
 
 This is a FREE App. We do not rely on advertising or in-app purchases, and do not have any income. Therefore, we hope that volunteers can help us with translation and grammar checking. Your efforts will help our App do better and benefit more people around the world. We sincerely thank you!
 
-How to translate the UI into a different language?
+How to translate the Flutter UI into a different language?
 
 The following is an example of the way of translating English text into German:
 
@@ -36,7 +36,9 @@ Translated:
 
 Reference: https://flutter.dev/docs/development/accessibility-and-localization/internationalization
 
-If you are not familiar with making Merge Request, you can upload the translated text to Discussion.
+If you could create Merge Request, you can refer to https://github.com/calcitem/Sanmill/commit/89ca142f407ccd483c5ea47258edad16c8d1a62e
+
+If you are not familiar with making Merge Request, you can upload the translated text to Discussion, We will merge arb file into the code base.
 
 Open https://github.com/calcitem/Sanmill/discussions/new
 
