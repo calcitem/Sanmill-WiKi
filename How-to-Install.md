@@ -12,6 +12,11 @@ The signing keys of the above sources are different. If the apk you installed is
 
 ## Qt Application for Windows
 
+
+> **Note**
+>
+>Qt Application is mainly used for algorithm verification and testing, there are some bugs in the GUI, please understand.
+
 Download Runtime from https://github.com/calcitem/Sanmill-Runtime/archive/master.zip
 
 Unzip Sanmill-Runtime-master.zip
