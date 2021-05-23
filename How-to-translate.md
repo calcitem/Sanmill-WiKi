@@ -8,7 +8,7 @@ The following is an example of the way of translating English text into German:
 
 Download https://raw.githubusercontent.com/calcitem/Sanmill/master/src/ui/flutter_app/lib/l10n/intl_en.arb
 
-File intl_en.arb describes the role of each text field and the content of the English text. A small number of strings are strings that are not used by the App, and may be used after future feature upgrades.
+File intl_en.arb describes the role of each text field and the content of the English text. You can use Notepad++/vim or any other Editors to view it. A small number of strings are strings that are not used by the App, and may be used after future feature upgrades.
 
 Download sample: https://raw.githubusercontent.com/calcitem/Sanmill/master/src/ui/flutter_app/lib/l10n/intl_zh.arb as reference.
 
