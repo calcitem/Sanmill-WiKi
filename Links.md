@@ -18,6 +18,8 @@ https://f-droid.org/wiki/index.php?title=com.calcitem.sanmill/lastbuild&redirect
 
 https://gitlab.com/fdroid/fdroiddata/-/blob/master/metadata/com.calcitem.sanmill.yml
 
+https://pishkhan.cafebazaar.ir/apps/com.calcitem.sanmill/dashboard
+
 # Reference
 
 https://www.mad-weasel.de/morris.html
