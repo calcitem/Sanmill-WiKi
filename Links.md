@@ -31,3 +31,5 @@ http://muehle.jochen-hoenicke.de
 # Other
 
 https://wetest.qq.com/product/auto-compatibility-testing
+
+https://fonts.google.com/icons
