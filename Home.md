@@ -751,9 +751,7 @@ In short, a bit board is one bit in a board that uses a few bits.  In this progr
 
 Possibilities for future work include:
 
-- Undo and Redo.
 - Hint and analyzing.
-- Animation.
 - Mobility evaluation, especially for Nine Men's Morris.
 - Support evaluation weight setting, further, support self training to find the best weight.
 - More AI styles, such as sacrifice.
