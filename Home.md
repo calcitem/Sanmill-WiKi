@@ -11,7 +11,7 @@ Mill is a classic "two-person zero-sum, full information, non-accidental" game. 
 
 In order to improve performance, the game algorithm engine core is written using C++, the App’s GUI is written using Flutter, and the platform channel is used to deliver messages between Flutter UI and the game engine.  
 
-The total amount of code is about 20000+ lines. The game algorithm engine is developed independently. Only in the thread management and UCI module copied the chess engine Stockfish about 300 lines of code.
+The total amount of code is about 200,000+ lines. The game algorithm engine is developed independently. Only in the thread management and UCI module copied the chess engine Stockfish about 300 lines of code.
 
 The purpose of using UCI interface is to create a general framework, which can also be referenced and connected by other Mill Game developers, so as to facilitate the game AI engine competition.
 
