@@ -16,6 +16,8 @@ http://gra.caldis.me/?url=https://github.com/calcitem/Sanmill
 
 # Reference
 
+http://compalg.inf.elte.hu/~ggevay/mills/index.php
+
 http://www.muehlespieler.de/
 
 https://www.mad-weasel.de/morris.html
