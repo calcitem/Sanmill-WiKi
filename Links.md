@@ -34,6 +34,8 @@ https://gitlab.com/fdroid/fdroiddata/-/blob/master/metadata/com.calcitem.sanmill
 
 https://pishkhan.cafebazaar.ir/apps/com.calcitem.sanmill/dashboard
 
+https://op.open.qq.com/mobile_appinfov2/detail?appid=1111865225
+
 https://developer.taptap.com/90654/app/217551/dashboard?store=cn&category=download
 
 # Other
