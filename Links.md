@@ -47,3 +47,15 @@ https://wetest.qq.com/product/auto-compatibility-testing
 https://www.playok.com/zh/mill/#
 
 https://fonts.google.com/icons
+
+# Reprinted
+
+https://meta.appinn.net/t/topic/23625
+
+https://www.dwq.com/game/42156.html
+http://www.pc6.com/azyx/1033102.html
+http://www.sdxdjq.com/article/124948.html
+http://www.officezhushou.com/game/46050.html
+https://m.bz55.com/down/153967.html
+https://m.7230.com/d613244
+https://www.infogame.cn/yx/162326.html#xzdz
