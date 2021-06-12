@@ -38,6 +38,8 @@ https://op.open.qq.com/mobile_appinfov2/detail?appid=1111865225
 
 https://developer.taptap.com/90654/app/217551/dashboard?store=cn&category=download
 
+http://aliapp.open.uc.cn/app/detail/index?appId=222622&cpType=8
+
 # Other
 
 https://wetest.qq.com/product/auto-compatibility-testing
