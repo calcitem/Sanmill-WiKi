@@ -8,6 +8,10 @@ Thank all the contributors behind the open-source projects which Sanmill use.
 
 Christian Weiske ([cweiske](https://github.com/cweiske))
 
+### Hungarian translation
+
+Tas Turul
+
 ## Reference
 
 The following open source code is referenced:
