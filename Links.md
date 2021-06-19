@@ -56,6 +56,16 @@ https://fonts.google.com/icons
 
 https://appagg.com/android-games/board/mill-36205487.html?hl=en
 
+https://appstorespy.com/apps/play/com.calcitem.sanmill/com.calcitem.sanmill
+
+https://sensortower.com/android/us/calcitem-studio/app/mill/com.calcitem.sanmill
+
+https://www.appbrain.com/app/com.calcitem.sanmill
+
+https://bayusp.com/apk/details.php?id=com.calcitem.sanmill
+
+https://apkcombo.com/zh/mill/com.calcitem.sanmill/
+
 https://apk-dl.com/mill/com.calcitem.sanmill
 
 https://www.9apps.com/es/android-games/com-calcitem-sanmill/#app-detail
