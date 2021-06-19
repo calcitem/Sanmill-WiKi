@@ -40,6 +40,10 @@ https://developer.taptap.com/90654/app/217551/dashboard?store=cn&category=downlo
 
 http://aliapp.open.uc.cn/app/detail/index?appId=222622&cpType=8
 
+# Clean
+
+https://blog.csdn.net/ydyuse/article/details/105611445
+
 # Other
 
 https://wetest.qq.com/product/auto-compatibility-testing
