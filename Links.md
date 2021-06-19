@@ -54,6 +54,8 @@ https://fonts.google.com/icons
 
 # Reprinted
 
+https://appagg.com/android-games/board/mill-36205487.html?hl=en
+
 https://www.9apps.com/es/android-games/com-calcitem-sanmill/#app-detail
 
 https://meta.appinn.net/t/topic/23625
