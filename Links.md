@@ -10,6 +10,8 @@ https://app.codacy.com/gh/calcitem/Sanmill/dashboard?branch=master
 
 https://codemagic.io/app/5fafbd77605096975ff9d1ba
 
+https://dashboard.guardrails.io/gh/calcitem/vulnerabilities
+
 http://gra.caldis.me/?url=https://github.com/calcitem/Sanmill
 
 [![DeepScan grade](https://deepscan.io/api/teams/12207/projects/15212/branches/300581/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=12207&pid=15212&bid=300581)
