@@ -8,13 +8,13 @@ Thank all the contributors behind the open-source projects which Sanmill use.
 
 Christian Weiske ([cweiske](https://github.com/cweiske))
 
-### Hungarian translation
+### Hungarian and Romanian translation
 
 Tas Turul
 
 ## Reference
 
-The following open source code is referenced:
+The following open-source code is referenced:
 
 [Stockfish](https://github.com/official-stockfish/Stockfish)
 
@@ -24,4 +24,4 @@ The following open source code is referenced:
 
 ## Third-party Notices
 
-Sanmill relies on multiple third-party open source code, please refer to [Third-party Notices](https://github.com/calcitem/Sanmill/wiki/third-party_notices)
+Sanmill relies on multiple third-party open-source code, please refer to [Third-party Notices](https://github.com/calcitem/Sanmill/wiki/third-party_notices)
