@@ -8,7 +8,7 @@ You can download the Android App from the links below:
 
 [Fast Update Channel](https://github.com/calcitem/Sanmill/actions/workflows/flutter.yml?query=is%3Asuccess+branch%3Amaster)
 
-The signing keys of the above sources are different. If the apk you installed is from a different source, you need to uninstall the original App and reinstall it.
+The signing keys of the above sources are different. If the app you installed is from a different source, you need to uninstall the original App and reinstall it.
 
 ## Flutter App for Windows
 
@@ -18,7 +18,7 @@ You can use Visual Studio 2019 to build `src\ui\flutter_app\build\windows\Mill.s
 
 > **Note**
 >
->Qt Application is mainly used for algorithm verification and testing, there are some bugs in the GUI, please understand.
+>Qt Application is mainly used for algorithm verification and testing, and there are some bugs in the GUI. Please understand.
 
 Download Runtime from https://github.com/calcitem/Sanmill-Runtime/archive/master.zip
 
@@ -28,7 +28,7 @@ Get executable file from https://ci.appveyor.com/project/calcitem/sanmill/build/
 
 Download `release\MillGame.exe` from `File name`.
 
-The upper right corner of the page indicates the time the program was built, like `30 minutes ago in 1 min 50 sec`, which means the release time is 30 minutes ago.   
+The upper right corner of the page indicates the time the program was built, like `30 minutes ago in 1 min 50 sec`, which means the release time was 30 minutes ago.   
 
 Put `MillGame.exe` into the `Sanmill-Runtime-master` directory， and click `MillGame.exe` to run.           
 
