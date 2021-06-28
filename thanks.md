@@ -1,6 +1,6 @@
 # Thanks
 
-Thank all the contributors behind the open-source projects which Sanmill use.
+Thank all the contributors behind the open-source projects which Sanmill uses.
 
 ## Translation
 
@@ -24,4 +24,4 @@ The following open-source code is referenced:
 
 ## Third-party Notices
 
-Sanmill relies on multiple third-party open-source code, please refer to [Third-party Notices](https://github.com/calcitem/Sanmill/wiki/third-party_notices)
+Sanmill relies on multiple third-party open-source codes, please refer to [Third-party Notices](https://github.com/calcitem/Sanmill/wiki/third-party_notices)
