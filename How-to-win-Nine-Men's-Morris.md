@@ -6,7 +6,7 @@ AI's action: always place at your opposite cross entrance, the second piece plac
 
 If you are Player two, the AI's action is to try to make a triangle.
 
-Please don't block AI from making triangle here. If AI loses one son after making triangle, but it can limit the space of the opponent's four pieces. Then it can make 1-3 fortresses in four directions or in the middle. Its purpose is to block the opponent from closing a Mill, and then punish the opponent to give up. Otherwise, don't tear down the defense line. Support 3-4 fortresses: try to close a Mill during the movement, Check 1-2: the purpose is to force the opponent's piece to become a fortress. If he moves, you can close a Mill.
+Please don't block AI from making a triangle here. If AI loses one son after making a triangle, it can limit the opponent's four pieces. Then it can make 1-3 fortresses in four directions or the middle. Its purpose is to block the opponent from closing a Mill and then punish the opponent for giving up. Otherwise, don't tear down the defense line. Support 3-4 fortresses: try to close a Mill during the movement. Check 1-2: the purpose is to force the opponent's piece to become a fortress. If he moves, you can close a Mill.
 
 PS: the two roles of Fortress root support cannot overlap!
 
@@ -15,16 +15,16 @@ PS: the two roles of Fortress root support cannot overlap!
 1. Don't move the fort unless the opponent withdraws.
 2. Move the corner to the middle.
 3. The supporting piece block may interfere with your piece block first.
-4. Then the supporting piece units are closed a Mill.
+4. Then, the supporting piece units have closed a Mill.
 
 # Removing strategy
 
-1. Give priority to remove piece who are trying to close a Mill.
+1. Give priority to remove pieces that are trying to close a Mill.
 2. Eat each other's fortress.
 3. The third party comes to block the Mill you are completing.
 4. Finally, remove all the pieces except the corner.
 
-When you have less than 8, it's very dangerous to let the opponent run around, and then you will become 3. If you play with real people, the end is a draw. So try to surround the remaining 4 enemies.
+When you have less than 8, it's hazardous to let the opponent run around, and then you will become 3. If you play with real people, the end is a draw. So try to surround the remaining 4 enemies.
 
 # 下棋策略
 
