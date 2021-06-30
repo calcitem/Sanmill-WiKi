@@ -4,6 +4,10 @@ Thank all the contributors behind the open-source projects which Sanmill uses.
 
 ## Translation
 
+### Persian translation (WIP)
+
+[iJahangard](https://github.com/iJahangard)
+
 ### German translation
 
 Christian Weiske ([cweiske](https://github.com/cweiske))
