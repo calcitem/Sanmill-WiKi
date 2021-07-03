@@ -56,6 +56,8 @@ https://fonts.google.com/icons
 
 # Reprinted
 
+http://sguinetti.gitlab.io/2020/05/27/apps-traducidas.html
+
 https://appagg.com/android-games/board/mill-36205487.html?hl=en
 
 https://appstorespy.com/apps/play/com.calcitem.sanmill/com.calcitem.sanmill
