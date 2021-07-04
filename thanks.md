@@ -8,6 +8,8 @@ Thank all the contributors behind the open-source projects which Sanmill uses.
 
 [iJahangard](https://github.com/iJahangard)
 
+Sina
+
 ### German translation
 
 [Christian Weiske](https://github.com/cweiske)
