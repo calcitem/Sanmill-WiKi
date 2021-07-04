@@ -16,6 +16,10 @@ Christian Weiske ([cweiske](https://github.com/cweiske))
 
 Tas Turul
 
+### Spanish translation
+
+[Diego](https://github.com/sguinetti)
+
 ## Reference
 
 The following open-source code is referenced:
