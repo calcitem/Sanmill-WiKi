@@ -10,7 +10,7 @@ Thank all the contributors behind the open-source projects which Sanmill uses.
 
 ### German translation
 
-Christian Weiske ([cweiske](https://github.com/cweiske))
+[Christian Weiske](https://github.com/cweiske)
 
 ### Hungarian and Romanian translation
 
