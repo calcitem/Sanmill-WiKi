@@ -12,9 +12,5 @@ Features:
 - Adjustable playing strength
 - Highly configurable
 - Color themes
-- German and Chinese translations
+- German, Spanish and Chinese translations
 - Complete source code available under the GNU General Public License.
-
-The following permissions are used:
-- Have full network access
-- View network connections
