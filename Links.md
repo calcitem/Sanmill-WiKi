@@ -54,6 +54,8 @@ https://www.playok.com/zh/mill/#
 
 https://fonts.google.com/icons
 
+https://keys.openpgp.org/
+
 # Reprinted
 
 http://sguinetti.gitlab.io/2020/05/27/apps-traducidas.html
