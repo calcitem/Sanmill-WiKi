@@ -14,6 +14,8 @@ Sina
 
 [Christian Weiske](https://github.com/cweiske)
 
+G-XVI
+
 ### Hungarian and Romanian translation
 
 Tas Turul
