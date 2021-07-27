@@ -16,6 +16,10 @@ Sina
 
 G-XVI
 
+### Schweizerdeutsch translation
+
+G-XVI
+
 ### Hungarian and Romanian translation
 
 Tas Turul
