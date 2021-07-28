@@ -4,3 +4,6 @@ This is a FREE App. We do not rely on advertising or in-app purchases and do not
 
 Want to help translate Sanmill?
 Join the team at https://poeditor.com/join/project?hash=DStQiKAsPb #localization #translation #OpenSource 
+
+To contributors:
+If you like, please email your address to us, we will send you a postcard to thank you.
