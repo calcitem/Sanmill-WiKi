@@ -16,4 +16,4 @@ As a general rule, a translation must be at least 70% complete for it to be incl
 
 ## Thanks
 
-If you wish, please email your address to [us](mailto:calcitem@outlook.com). We will send you a postcard to thank you for your contribution.
+If you wish, please [email your address to us](mailto:calcitem@outlook.com). We will send you a postcard to thank you for your contribution.
