@@ -4,31 +4,35 @@ Thank all the contributors behind the open-source projects which Sanmill uses.
 
 ## Translation
 
-### Persian translation
+### Persian
 
 [iJahangard](https://github.com/iJahangard)
 
 Sina
 
-### German translation
+### German
 
 [Christian Weiske](https://github.com/cweiske)
 
 G-XVI
 
-### Schweizerdeutsch translation (WIP)
+### Schweizerdeutsch (WIP)
 
 G-XVI
 
-### Hungarian and Romanian translation
+### Hungarian
 
 Tas Turul
 
-### Spanish translation
+### Romanian
+
+Tas Turul
+
+### Spanish
 
 [Diego](https://github.com/sguinetti)
 
-### Finnish translation (WIP)
+### Finnish (WIP)
 
 [justina colmena](https://github.com/justinacolmena)
 
