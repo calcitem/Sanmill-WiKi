@@ -18,7 +18,7 @@ Sina
 
 ### Schweizerdeutsch (WIP)
 
-G-XVI
+[G-XVI](https://github.com/G-XVI)
 
 ### Hungarian
 
