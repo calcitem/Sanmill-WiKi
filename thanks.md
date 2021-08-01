@@ -14,7 +14,7 @@ Sina
 
 [Christian Weiske](https://github.com/cweiske)
 
-G-XVI
+[G-XVI](https://github.com/G-XVI)
 
 ### Schweizerdeutsch (WIP)
 
