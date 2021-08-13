@@ -30,6 +30,9 @@ http://muehle.jochen-hoenicke.de
 
 # Store
 
+http://aliapp.open.uc.cn/
+Taobao 182
+
 https://f-droid.org/wiki/index.php?title=com.calcitem.sanmill/lastbuild&redirect=no
 
 https://gitlab.com/fdroid/fdroiddata/-/blob/master/metadata/com.calcitem.sanmill.yml
