@@ -56,6 +56,8 @@ https://pishkhan.cafebazaar.ir/apps/com.calcitem.sanmill/dashboard
 
 http://dev.anzhi.com/index.php
 
+https://open.flyme.cn
+
 https://op.open.qq.com/mobile_appinfov2/detail?appid=1111865225
 (Developer is too old)
 
