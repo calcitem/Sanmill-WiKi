@@ -54,6 +54,8 @@ https://dev.360.cn/
 https://pishkhan.cafebazaar.ir/apps/com.calcitem.sanmill/dashboard
 (Use signed by Play Store: 410.apk)
 
+http://dev.anzhi.com/index.php
+
 https://op.open.qq.com/mobile_appinfov2/detail?appid=1111865225
 (Developer is too old)
 
