@@ -30,20 +30,34 @@ http://muehle.jochen-hoenicke.de
 
 # Store
 
-http://aliapp.open.uc.cn/
-Taobao 182
+https://play.google.com/console/
+(Use signed by Github: app-release.apk)
 
 https://f-droid.org/wiki/index.php?title=com.calcitem.sanmill/lastbuild&redirect=no
+(No signed)
 
 https://gitlab.com/fdroid/fdroiddata/-/blob/master/metadata/com.calcitem.sanmill.yml
 
+https://developer.coolapk.com
+(Use signed by Github: app-release.aab)
+
+http://aliapp.open.uc.cn/
+(Use signed by Play Store: 410.apk)
+Taobao 182
+
+https://developer.huawei.com
+(Use signed by Github: app-release.aab)
+
+https://dev.360.cn/
+(Use signed by Play Store: 410.apk)
+
 https://pishkhan.cafebazaar.ir/apps/com.calcitem.sanmill/dashboard
+(Use signed by Play Store: 410.apk)
 
 https://op.open.qq.com/mobile_appinfov2/detail?appid=1111865225
+(Developer is too old)
 
 https://developer.taptap.com/90654/app/217551/dashboard?store=cn&category=download
-
-http://aliapp.open.uc.cn/app/detail/index?appId=222622&cpType=8
 
 # Clean
 
