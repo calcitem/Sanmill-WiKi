@@ -31,6 +31,9 @@ http://muehle.jochen-hoenicke.de
 # Store
 
 https://play.google.com/console/
+(Use signed by Github: app-release.arb)
+
+https://developer.amazon.com/
 (Use signed by Github: app-release.apk)
 
 https://f-droid.org/wiki/index.php?title=com.calcitem.sanmill/lastbuild&redirect=no
