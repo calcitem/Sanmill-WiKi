@@ -52,9 +52,6 @@ http://aliapp.open.uc.cn/
 (Use signed by Play Store: 410.apk)
 Taobao 182
 
-https://developer.huawei.com
-(Use signed by Github: app-release.aab)
-
 https://dev.360.cn/
 (Use signed by Play Store: 410.apk)
 
@@ -69,6 +66,10 @@ https://op.open.qq.com/mobile_appinfov2/detail?appid=1111865225
 https://developer.taptap.com/90654/app/217551/dashboard?store=cn&category=download
 
 # Other Store
+
+https://developer.huawei.com
+App classification does not match the actual function and purpose of the application
+(Use signed by Github: app-release.aab)
 
 http://dev.anzhi.com/index.php
 (Require company business license)
