@@ -37,7 +37,7 @@ https://developers.appbrain.com/dev_dashboard
 https://play.google.com/console/
 (Use signed by Github: app-release.arb)
 
-https://developer.amazon.com/
+https://developer.amazon.com/reporting/console/appstore/reviews
 (Use signed by Github: app-release.apk)
 
 https://f-droid.org/wiki/index.php?title=com.calcitem.sanmill/lastbuild&redirect=no
