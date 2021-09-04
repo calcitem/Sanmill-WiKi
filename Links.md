@@ -34,6 +34,8 @@ https://developers.appbrain.com/dev_dashboard
 
 # Store
 
+https://play.google.com/store/apps/details?id=com.calcitem.sanmill&hl=fa
+
 https://play.google.com/console/
 (Use signed by Github: app-release.arb)
 
