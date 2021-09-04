@@ -18,8 +18,6 @@ http://gra.caldis.me/?url=https://github.com/calcitem/Sanmill
 
 # Reference
 
-https://merrillsjourney.blogspot.com
-
 http://compalg.inf.elte.hu/~ggevay/mills/index.php
 
 http://www.muehlespieler.de/
