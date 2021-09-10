@@ -2,7 +2,7 @@
 
 ## Mill skill instructor
 
-[Matt Littlewood]（https://re-harmonized.blogspot.com）
+[Matt Littlewood](https://re-harmonized.blogspot.com)
 
 ## Translation
 
