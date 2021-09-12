@@ -2,7 +2,7 @@
 
 ```
 White: 
-Bad move: f6
+Bad move: f6 / e4
 Good move: c5 / e5 / c3 / d3/ e3 / b2 / a1 / d1 / g1
 
 1.     d6    d2
