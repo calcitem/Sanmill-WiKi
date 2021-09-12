@@ -30,7 +30,7 @@ Good move: f2xd7
 ```
 Black: 
 Bad move: e5
-Good move: d7
+Good move: d2/d3/b2/b4
 
  1.     d1    d6
  2.     c4    f4
