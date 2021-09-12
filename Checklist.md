@@ -1,5 +1,15 @@
+# Case
 
-# Case 1
+```
+White: 
+Bad move: f6
+Good move: c5 / e5 / c3 / d3/ e3 / b2 / a1 / d1 / g1
+
+1.     d6    d2
+2.     f4    b4
+3.     a7    d7
+```
+# Case
 
 https://github.com/calcitem/Sanmill/commit/ff37bc3310ad42ef490ac0213768f46614eda733
 
@@ -15,7 +25,7 @@ Good move: f2xd7
  5.     d7    
 ```
 
-# Case 2
+# Case
 
 ```
 Black: 
@@ -29,7 +39,7 @@ Good move: d7
  5.     e4    
 ```
 
-# Case 3
+# Case
 
 ```
 Black: 
