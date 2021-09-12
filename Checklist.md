@@ -15,3 +15,16 @@ Good move: f2xd7
  5.     d7    
 ```
 
+# Case 2
+
+Black: 
+Bad move: f6
+Good move: c5 / b4 / d3 / d2 / e3
+
+```
+ 1.     d1    d6
+ 2.     c4    f4
+ 3.     g7    d7
+ 4.     d5    g4
+ 5.     e4    
+```
