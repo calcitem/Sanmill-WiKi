@@ -35,6 +35,7 @@ Good move: d7
 Black: 
 Bad move: f6
 Good move: c5 / b4 / d3 / d2 / e3
+Enable mobility can fix.
 
 1.     d6    f4
  2.     b4    f6
