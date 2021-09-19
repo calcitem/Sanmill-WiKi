@@ -96,6 +96,8 @@ https://keys.openpgp.org/
 
 http://sguinetti.gitlab.io/2020/05/27/apps-traducidas.html
 
+https://flutterawesome.com/a-free-powerful-uci-like-n-mens-morris-program-with-cui-flutter-gui-and-qt-gui/
+
 https://appagg.com/android-games/board/mill-36205487.html?hl=en
 
 https://appstorespy.com/apps/play/com.calcitem.sanmill/com.calcitem.sanmill
