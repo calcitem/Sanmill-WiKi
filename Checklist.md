@@ -2,13 +2,12 @@
 
 ```
 White: 
-Bad move: other 
-Good move: c5
+Bad move: a4 (D but dangrous)
+Good move: e4/g4 ect.
 
  1.     b4    f4
  2.     d2    d6
  3.     d7    d3
- 4.     a4    c4
 ```
 
 # Case
