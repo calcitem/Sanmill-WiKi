@@ -2,6 +2,19 @@
 
 ```
 White: 
+Bad move: other 
+Good move: c5
+
+ 1.     b4    f4
+ 2.     d2    d6
+ 3.     d7    d3
+ 4.     a4    c4
+```
+
+# Case
+
+```
+White: 
 Bad move: d5 
 Good move: f5/a1/b2/d1/g1
 
