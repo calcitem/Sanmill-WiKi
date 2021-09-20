@@ -22,3 +22,5 @@ git push origin HEAD:calcitem/master -f
 ```
 
 https://gitlab.com/calcitem/fdroiddata/-/pipelines
+
+https://gitlab.com/calcitem/fdroiddata/-/merge_requests/new#
