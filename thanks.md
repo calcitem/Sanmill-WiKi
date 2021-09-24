@@ -38,6 +38,10 @@ Tas Turul
 
 [justina colmena](https://github.com/justinacolmena)
 
+### Arabic (WIP)
+
+[islam2hamy](https://github.com/islam2hamy)
+
 ## Reference
 
 The following open-source code is referenced:
