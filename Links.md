@@ -30,6 +30,8 @@ http://www.brillant-mill.eu/milleng.html
 
 http://muehle.jochen-hoenicke.de
 
+http://ki.informatik.uni-wuerzburg.de/projects/other/muehle/download.html
+
 # Stat
 
 https://developers.appbrain.com/dev_dashboard
