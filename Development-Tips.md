@@ -28,3 +28,10 @@ fastboot.exe flash bootloader .\bootloader.img
 fastboot.exe flash radio .\radio.img
 fastboot update ../aosp_redfin_hwasan-flashable-7224646-with-license.zip
 ```
+
+# Flash
+
+https://developers.google.com/android/images
+
+adb reboot bootloader
+fastboot flashing unlock
