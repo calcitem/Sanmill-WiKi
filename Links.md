@@ -141,3 +141,7 @@ https://www.ylmfpe.com/app/10806.html
 https://www.infogame.cn/yx/162326.html#xzdz
 
 https://fossdroid.com/a/mill.html
+
+# Android
+
+https://developers.google.com/android/ota
