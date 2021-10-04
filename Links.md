@@ -24,6 +24,8 @@ http://compalg.inf.elte.hu/~ggevay/mills/index.php
 
 http://www.muehlespieler.de/
 
+https://www.brettspielnetz.de/java/muehle/index.php
+
 https://www.mad-weasel.de/morris.html
 
 http://www.brillant-mill.eu/milleng.html
