@@ -20,6 +20,8 @@ http://gra.caldis.me/?url=https://github.com/calcitem/Sanmill
 
 http://ninemensmorris.ist.tugraz.at:8080/
 
+https://merrelles.com/
+
 http://compalg.inf.elte.hu/~ggevay/mills/index.php
 
 http://www.muehlespieler.de/
