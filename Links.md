@@ -146,5 +146,7 @@ https://www.infogame.cn/yx/162326.html#xzdz
 
 https://fossdroid.com/a/mill.html
 
+https://news.priviw.com/tech-examples/a-free-powerful-uci-like-n-mens-morris-program-with-cui-flutter-gui-and-qt-gui/
+
 https://meta.appinn.net/t/topic/26497
 
