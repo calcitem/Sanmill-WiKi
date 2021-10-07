@@ -104,6 +104,8 @@ http://bestflutterapps.com/a-free-powerful-uci-like-n-mens-morris-program-with-c
 
 https://flutterawesome.com/a-free-powerful-uci-like-n-mens-morris-program-with-cui-flutter-gui-and-qt-gui/
 
+https://www.libhunt.com/r/Sanmill
+
 https://appagg.com/android-games/board/mill-36205487.html?hl=en
 
 https://appstorespy.com/apps/play/com.calcitem.sanmill/com.calcitem.sanmill
