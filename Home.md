@@ -20,3 +20,5 @@ Places you can find other Sanmill developers:
 [Issues](https://github.com/calcitem/Sanmill/issues)
 
 [Discussions](https://github.com/calcitem/Sanmill/discussions)
+
+Telegram: Sanmill
