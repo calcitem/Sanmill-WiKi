@@ -21,4 +21,4 @@ Places you can find other Sanmill developers:
 
 [Discussions](https://github.com/calcitem/Sanmill/discussions)
 
-Telegram: [Sanmill](https://t.me/joinchat/zF7a3AxoiqhmN2U1)
+[Telegram](https://t.me/joinchat/zF7a3AxoiqhmN2U1)
