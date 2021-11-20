@@ -114,6 +114,8 @@ https://www.libhunt.com/r/Sanmill
 
 https://freeroid.com/details.php?id=com.calcitem.sanmill
 
+https://apk.support/app/com.calcitem.sanmill
+
 https://appagg.com/android-games/board/mill-36205487.html?hl=en
 
 https://appstorespy.com/apps/play/com.calcitem.sanmill/com.calcitem.sanmill
