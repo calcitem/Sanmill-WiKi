@@ -128,6 +128,8 @@ https://www.appbrain.com/app/com.calcitem.sanmill
 
 https://bayusp.com/apk/details.php?id=com.calcitem.sanmill
 
+https://awesomeopensource.com/project/calcitem/Sanmill?categoryPage=48
+
 https://apkcombo.com/zh/mill/com.calcitem.sanmill/
 
 https://apk-dl.com/mill/com.calcitem.sanmill
