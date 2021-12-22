@@ -5,7 +5,7 @@ Whether you are a programming wizard or just a fan, there’s something you can 
 
 # Translation
 
-Translation lets you volunteer your literary talent to help translate or proofread the strings of Sanmill. No coding is required! All you need to do is open [POEditor](https://poeditor.com/join/project?hash=DStQiKAsPb) and select the language(s) you can contribute to and press `Join translation`.
+Translation lets you volunteer your literary talent to help translate or proofread the strings of Sanmill. No coding is required! All you need to do is open [Weblate](https://hosted.weblate.org/projects/Sanmill/) and select the language(s) you can contribute.
 
 # Write Code
 
