@@ -42,6 +42,10 @@ Tas Turul
 
 [islam2hamy](https://github.com/islam2hamy)
 
+### Norsk (WIP)
+
+[Allan Nordhøy](https://github.com/comradekingu)
+
 ### Indonesian (WIP)
 
 Petramiuw
