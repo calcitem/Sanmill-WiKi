@@ -18,9 +18,13 @@ Sina
 
 [G-XVI](https://github.com/G-XVI)
 
+J. Lavoie
+
 ### Schweizerdeutsch (WIP)
 
 [G-XVI](https://github.com/G-XVI)
+
+J. Lavoie
 
 ### Hungarian
 
@@ -38,6 +42,8 @@ Tas Turul
 
 [justina colmena](https://github.com/justinacolmena)
 
+J. Lavoie
+
 ### Arabic (WIP)
 
 [islam2hamy](https://github.com/islam2hamy)
@@ -49,6 +55,14 @@ Tas Turul
 ### Indonesian (WIP)
 
 Petramiuw
+
+### French
+
+J. Lavoie
+
+### Italian
+
+J. Lavoie
 
 ## Reference
 
