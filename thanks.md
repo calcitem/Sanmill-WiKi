@@ -58,7 +58,7 @@ Petramiuw
 
 ### French
 
-NathanBnm
+[NathanBnm](https://github.com/NathanBnm)
 
 J. Lavoie
 
