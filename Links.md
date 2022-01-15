@@ -102,6 +102,8 @@ https://keys.openpgp.org/
 
 https://www.appinn.com/zhiqi-for-android/
 
+https://meta.appinn.net/t/topic/23625
+
 http://sguinetti.gitlab.io/2020/05/27/apps-traducidas.html
 
 http://bestflutterapps.com/a-free-powerful-uci-like-n-mens-morris-program-with-cui-flutter-gui-and-qt-gui
