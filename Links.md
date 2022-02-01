@@ -112,6 +112,8 @@ https://flutterawesome.com/a-free-powerful-uci-like-n-mens-morris-program-with-c
 
 https://awesomeopensource.com/project/calcitem/Sanmill
 
+https://flutterrepos.com/lib/calcitem-Sanmill
+
 https://www.libhunt.com/r/Sanmill
 
 https://freeroid.com/details.php?id=com.calcitem.sanmill
