@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Our Privacy Policy was updated on May 22, 2021.
+Our Privacy Policy was updated on Feb 1, 2022.
 
 Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
@@ -42,7 +42,7 @@ When an application crashes, the data collected and stored by our application th
 
 **We will obtain your express consent through pop-up window before each request to send diagnostic data.**
 
-After your express consent, our app will call a third-party email client to automatically attach the details of the crash report in the body of the email, including the above-mentioned collected and stored data, only when you click the email client's "Send" butto, the crash data will be sent to our mailbox.
+After your express consent, our app will call a third-party email client to automatically attach the details of the crash report in the body of the email, including the above-mentioned collected and stored data, only when you click the email client's "Send" button, the crash data will be sent to our mailbox.
 
 In addition, if you agree to report crash data to OS or app store provider in your operating system configuration, those provider will share the crash data with us. This collection is beyond our control.
 
