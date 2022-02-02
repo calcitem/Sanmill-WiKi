@@ -1,4 +1,4 @@
-Calcitem Sanmill Development White Paper
+﻿Calcitem Sanmill Development White Paper
 ---------------------------------------------------------------------------
 
 This document is a work in progress. Please copy any comments about it to [Calcitem Sdudio](mailto:calcitem@outlook.com). Thank you very much!
@@ -27,7 +27,7 @@ The purpose of using the UCI interface is to create a general framework, which c
 
 Screen resolution of 480x960 or more size
 
-Android 4.1 or higher
+Android 4.2 or higher
 
 ### iOS phone
 

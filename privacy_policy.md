@@ -16,7 +16,7 @@ Under this Privacy Policy, "personal information" means information that can be 
 
 ## How we can help you
 
-Ultimately, what we want is the best for all our users. Should you have any questions with our data handling practices as summarized in this Privacy Policy, please contact us via calcitem@outlook.com to address your specific concerns. We will be happy to hear from you. 
+Ultimately, what we want is the best for all our users. Should you have any questions with our data handling practices as summarized in this Privacy Policy, please contact us via calcitem@outlook.com to address your specific concerns. We will be happy to hear from you.
 
 ### What information is collected by us and how do we use it?
 
@@ -28,7 +28,7 @@ Depending on the service you choose, we may collect the following types of infor
 
 ##### Information you provide to us
 
-We may collect any personal information you provide to us, which is necessary for the service you choose. For example, you may provide your email address if you sending crash reports; you may provide us your nickname or other needed information if you send feedback about our services or make a complaint. 
+We may collect any personal information you provide to us, which is necessary for the service you choose. For example, you may provide your email address if you sending crash reports; you may provide us your nickname or other needed information if you send feedback about our services or make a complaint.
 
 ##### Non-personally identifiable information
 
@@ -118,9 +118,9 @@ Calcitem may publicly disclose your personal information under the following cir
 
 We are committed to keeping your personal information secure. In order to prevent unauthorized access, disclosure or other similar risks, we have put in place all legally required physical, electronic and managerial procedures to safeguard and secure the information we collect. We will ensure that we safeguard your personal information in accordance with applicable law.
 
-All your personal information is stored on secure servers, and protected in controlled facilities. We classify your information based on importance and sensitivity, and ensure that your personal information has the required level of security. 
+All your personal information is stored on secure servers, and protected in controlled facilities. We classify your information based on importance and sensitivity, and ensure that your personal information has the required level of security.
 
-We conduct due diligence on business partners and third party service providers to make sure that they are able to protect your personal information. 
+We conduct due diligence on business partners and third party service providers to make sure that they are able to protect your personal information.
 
 We will take all practicable and legally required steps to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure, and for this reason we cannot guarantee the security or integrity of any personal information when transferred from you or to you via the Internet.
 
@@ -178,7 +178,7 @@ In detail:
 
 * If any information we are holding on you is incorrect or incomplete, you are entitled to have your personal information corrected or completed based on the purpose of use.
 
-* Based on the requirements of applicable laws, you have the right to request the deletion or removal of your personal information where there is no compelling reason for us to keep using it. We shall consider the grounds regarding your erasure request and take reasonable steps, including technical measures. 
+* Based on the requirements of applicable laws, you have the right to request the deletion or removal of your personal information where there is no compelling reason for us to keep using it. We shall consider the grounds regarding your erasure request and take reasonable steps, including technical measures.
 
 We have the right to refuse to process requests or only comply in part with requests where an exemption applies or we are otherwise entitled to do so under applicable laws, such as if the request is manifestly unfounded or manifestly excessive or it would require the disclosure of information about third parties. In some circumstances, we may charge a fee, where permitted under applicable laws. If we believe that certain aspects of a request to delete the information may result in our inability to legally use the information for the establishment, exercise or defense of legal claims or reasons permitted by applicable law, it may also be rejected.
 

@@ -83,4 +83,3 @@ The following open-source code is referenced:
 Sanmill relies on multiple third-party open-source codes, please refer to [Third-party Notices](https://github.com/calcitem/Sanmill/wiki/third-party_notices)
 
 Thank all the contributors behind the open-source projects which Sanmill uses.
-

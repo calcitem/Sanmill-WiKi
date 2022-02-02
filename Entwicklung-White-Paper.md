@@ -1,4 +1,4 @@
-Calcitem Sanmill Entwicklung White Paper
+﻿Calcitem Sanmill Entwicklung White Paper
 ---------------------------------------------------------------------------
 
 Dieses Dokument ist ein "work in progress". Bitte senden Sie alle Kommentare dazu an [Calcitem Sdudio](mailto:calcitem@outlook.com). Herzlichen Dank!
@@ -27,7 +27,7 @@ Der Zweck der Verwendung der UCI-Schnittstelle ist es, ein allgemeines Framework
 
 Bildschirmauflösung von 480x960 oder mehr Größe
 
-Android 4.1 oder höher
+Android 4.2 oder höher
 
 ### iOS-Telefon
 

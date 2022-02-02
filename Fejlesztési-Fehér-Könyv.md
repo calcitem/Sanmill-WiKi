@@ -1,4 +1,4 @@
-Calcitem Sanmill fejlesztési fehér könyv
+﻿Calcitem Sanmill fejlesztési fehér könyv
 ---------------------------------------------------------------------------
 
 Ez a dokumentum egy folyamatban lévő munka. Kérjük, hogy az ezzel kapcsolatos észrevételeket másolja a [Calcitem Sdudio](mailto:calcitem@outlook.com) címre. Köszönjük szépen!
@@ -27,7 +27,7 @@ Az UCI interfész használatának célja egy általános keretrendszer létrehoz
 
 480x960 vagy nagyobb méretű képernyőfelbontás
 
-Android 4.1 vagy újabb verzió
+Android 4.2 vagy újabb verzió
 
 ### iOS telefon
 
