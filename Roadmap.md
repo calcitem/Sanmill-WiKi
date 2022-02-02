@@ -10,13 +10,13 @@ As always, we listen to your feedback and adapt our plans if needed.
 
 Legend of annotations:
 
-| Mark          | Description      |
-| ------------- | ---------------- |
-| bullet        | work not started |
-| check mark    | work completed   |
-| :runner:      | on-going work    |
-| :muscle:      | stretch goal     |
-| :red_circle:  | missing link     |
+| Mark         | Description      |
+| ------------ | ---------------- |
+| bullet       | work not started |
+| check mark   | work completed   |
+| :runner:     | on-going work    |
+| :muscle:     | stretch goal     |
+| :red_circle: | missing link     |
 
 ## Values
 
@@ -35,6 +35,12 @@ For 2022, we'll particularly focus in the following themes.
 - Update the infrastructure of our app; start the process of visual updates
 
 <!-- BEGIN -->
+
+## Iteration Plan
+
+[Iteration Plan for Q1 2022]
+
+[Iteration Plan for Q2 2022](https://github.com/calcitem/Sanmill/issues/530)
 
 ## Summary
 
