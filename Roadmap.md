@@ -38,7 +38,7 @@ For 2022, we'll particularly focus in the following themes.
 
 ## Iteration Plan
 
-[Iteration Plan for Q1 2022]
+[Iteration Plan for Q1 2022](https://github.com/calcitem/Sanmill/issues/529)
 
 [Iteration Plan for Q2 2022](https://github.com/calcitem/Sanmill/issues/530)
 
