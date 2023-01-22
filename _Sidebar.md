@@ -26,6 +26,7 @@
 * [[Development White Paper]]
 * [[Entwicklung White Paper]]
 * [[Fejlesztési-Fehér-Könyv]]
+* [[Development White Paper (Chinese)]]
 
 **Legal**
 
